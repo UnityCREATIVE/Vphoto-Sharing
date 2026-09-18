@@ -1,0 +1,434 @@
+[
+  {
+    "id": "recital-1-1",
+    "section": "Act 1",
+    "number": "1.1",
+    "title": "Stuck",
+    "teacher": "Leah Burley",
+    "sort": 101
+  },
+  {
+    "id": "recital-1-2",
+    "section": "Act 1",
+    "number": "1.2",
+    "title": "Dance of Life",
+    "teacher": "Adriana Digiovanni",
+    "sort": 102
+  },
+  {
+    "id": "recital-1-3",
+    "section": "Act 1",
+    "number": "1.3",
+    "title": "This is love",
+    "teacher": "Isadora Digiovanni",
+    "sort": 103
+  },
+  {
+    "id": "recital-1-4",
+    "section": "Act 1",
+    "number": "1.4",
+    "title": "Celebrate the Rain",
+    "teacher": "Tatiana Hassan",
+    "sort": 104
+  },
+  {
+    "id": "recital-1-5",
+    "section": "Act 1",
+    "number": "1.5",
+    "title": "Despacito — WAA Ballet",
+    "teacher": "Leah Burley",
+    "sort": 105
+  },
+  {
+    "id": "recital-1-6",
+    "section": "Act 1",
+    "number": "1.6",
+    "title": "Ka-Pow",
+    "teacher": "Leah Burley",
+    "sort": 106
+  },
+  {
+    "id": "recital-1-7",
+    "section": "Act 1",
+    "number": "1.7",
+    "title": "Grow",
+    "teacher": "Anna Dickey",
+    "sort": 107
+  },
+  {
+    "id": "recital-1-8",
+    "section": "Act 1",
+    "number": "1.8",
+    "title": "Die Trying",
+    "teacher": "Leah Burley",
+    "sort": 108
+  },
+  {
+    "id": "recital-1-9",
+    "section": "Act 1",
+    "number": "1.9",
+    "title": "Butterfly Waltz",
+    "teacher": "Tatiana Hassan",
+    "sort": 109
+  },
+  {
+    "id": "recital-1-10",
+    "section": "Act 1",
+    "number": "1.10",
+    "title": "Ocean Eyes",
+    "teacher": "Leah Burley",
+    "sort": 110
+  },
+  {
+    "id": "recital-1-11",
+    "section": "Act 1",
+    "number": "1.11",
+    "title": "The count",
+    "teacher": "Anna Dickey",
+    "sort": 111
+  },
+  {
+    "id": "recital-1-12",
+    "section": "Act 1",
+    "number": "1.12",
+    "title": "Bigger than love",
+    "teacher": "Adriana Digiovanni",
+    "sort": 112
+  },
+  {
+    "id": "recital-1-13",
+    "section": "Act 1",
+    "number": "1.13",
+    "title": "The Turning Point",
+    "teacher": "Adriana Digiovanni",
+    "sort": 113
+  },
+  {
+    "id": "recital-1-14",
+    "section": "Act 1",
+    "number": "1.14",
+    "title": "Feel it still",
+    "teacher": "Tatiana Hassan",
+    "sort": 114
+  },
+  {
+    "id": "recital-1-15",
+    "section": "Act 1",
+    "number": "1.15",
+    "title": "Just keep watching",
+    "teacher": "Anna Dickey",
+    "sort": 115
+  },
+  {
+    "id": "recital-1-16",
+    "section": "Act 1",
+    "number": "1.16",
+    "title": "Alive",
+    "teacher": "Tatiana Hassan / Joel MacGregor / Anja King",
+    "sort": 116
+  },
+  {
+    "id": "recital-1-17",
+    "section": "Act 1",
+    "number": "1.17",
+    "title": "Don't wake me up",
+    "teacher": "Adriana Digiovanni",
+    "sort": 117
+  },
+  {
+    "id": "recital-1-18",
+    "section": "Act 1",
+    "number": "1.18",
+    "title": "Samba Tap",
+    "teacher": "Adriana Digiovanni",
+    "sort": 118
+  },
+  {
+    "id": "recital-2-1",
+    "section": "Act 2",
+    "number": "2.1",
+    "title": "Iron",
+    "teacher": "Leah Burley",
+    "sort": 201
+  },
+  {
+    "id": "recital-2-2",
+    "section": "Act 2",
+    "number": "2.2",
+    "title": "Eclipse",
+    "teacher": "Adriana Digiovanni",
+    "sort": 202
+  },
+  {
+    "id": "recital-2-3",
+    "section": "Act 2",
+    "number": "2.3",
+    "title": "Trendsetter",
+    "teacher": "Anna Dickey",
+    "sort": 203
+  },
+  {
+    "id": "recital-2-4",
+    "section": "Act 2",
+    "number": "2.4",
+    "title": "The Duck Dance",
+    "teacher": "Leah Burley",
+    "sort": 204
+  },
+  {
+    "id": "recital-2-5",
+    "section": "Act 2",
+    "number": "2.5",
+    "title": "Get There",
+    "teacher": "Adriana Digiovanni",
+    "sort": 205
+  },
+  {
+    "id": "recital-2-6",
+    "section": "Act 2",
+    "number": "2.6",
+    "title": "Tick Tick Boom",
+    "teacher": "WAA Students",
+    "sort": 206
+  },
+  {
+    "id": "recital-2-7",
+    "section": "Act 2",
+    "number": "2.7",
+    "title": "Dreamer",
+    "teacher": "Leah Burley",
+    "sort": 207
+  },
+  {
+    "id": "recital-2-8",
+    "section": "Act 2",
+    "number": "2.8",
+    "title": "Celestial Drift",
+    "teacher": "Adriana Digiovanni",
+    "sort": 208
+  },
+  {
+    "id": "recital-2-9",
+    "section": "Act 2",
+    "number": "2.9",
+    "title": "Back to school",
+    "teacher": "Adriana Digiovanni",
+    "sort": 209
+  },
+  {
+    "id": "recital-2-10",
+    "section": "Act 2",
+    "number": "2.10",
+    "title": "Across the Universe",
+    "teacher": "Leah Burley",
+    "sort": 210
+  },
+  {
+    "id": "recital-2-11",
+    "section": "Act 2",
+    "number": "2.11",
+    "title": "Together Again",
+    "teacher": "Leah Burley",
+    "sort": 211
+  },
+  {
+    "id": "recital-2-13",
+    "section": "Act 2",
+    "number": "2.13",
+    "title": "Earned it",
+    "teacher": "Adriana Digiovanni",
+    "sort": 213
+  },
+  {
+    "id": "recital-2-14",
+    "section": "Act 2",
+    "number": "2.14",
+    "title": "Fatal",
+    "teacher": "Adriana Digiovanni",
+    "sort": 214
+  },
+  {
+    "id": "recital-2-15",
+    "section": "Act 2",
+    "number": "2.15",
+    "title": "Ordinary",
+    "teacher": "Tatiana Hassan",
+    "sort": 215
+  },
+  {
+    "id": "recital-2-16",
+    "section": "Act 2",
+    "number": "2.16",
+    "title": "Scientist",
+    "teacher": "Leah Burley",
+    "sort": 216
+  },
+  {
+    "id": "recital-2-17",
+    "section": "Act 2",
+    "number": "2.17",
+    "title": "One Day",
+    "teacher": "Adriana Digiovanni",
+    "sort": 217
+  },
+  {
+    "id": "recital-2-18",
+    "section": "Act 2",
+    "number": "2.18",
+    "title": "Happiness does not wait",
+    "teacher": "Anna Dickey",
+    "sort": 218
+  },
+  {
+    "id": "recital-3-1",
+    "section": "Act 3",
+    "number": "3.1",
+    "title": "End of the road",
+    "teacher": "Leah Burley",
+    "sort": 301
+  },
+  {
+    "id": "recital-3-2",
+    "section": "Act 3",
+    "number": "3.2",
+    "title": "Into your heart",
+    "teacher": "Adriana Digiovanni",
+    "sort": 302
+  },
+  {
+    "id": "recital-3-3",
+    "section": "Act 3",
+    "number": "3.3",
+    "title": "Disco Snails",
+    "teacher": "Leah Burley",
+    "sort": 303
+  },
+  {
+    "id": "recital-3-4",
+    "section": "Act 3",
+    "number": "3.4",
+    "title": "Tap, Bass and Drums",
+    "teacher": "Adriana Digiovanni",
+    "sort": 304
+  },
+  {
+    "id": "recital-3-5",
+    "section": "Act 3",
+    "number": "3.5",
+    "title": "Bliss",
+    "teacher": "Adriana Digiovanni",
+    "sort": 305
+  },
+  {
+    "id": "recital-3-6",
+    "section": "Act 3",
+    "number": "3.6",
+    "title": "Flatline",
+    "teacher": "Anna Dickey",
+    "sort": 306
+  },
+  {
+    "id": "recital-3-7",
+    "section": "Act 3",
+    "number": "3.7",
+    "title": "Jitterbug / Wizard of Oz",
+    "teacher": "Sarina Sorensen",
+    "sort": 307
+  },
+  {
+    "id": "recital-3-8",
+    "section": "Act 3",
+    "number": "3.8",
+    "title": "Pathways to Truth",
+    "teacher": "Anna Dickey",
+    "sort": 308
+  },
+  {
+    "id": "recital-3-9",
+    "section": "Act 3",
+    "number": "3.9",
+    "title": "Within",
+    "teacher": "Leah Burley",
+    "sort": 309
+  },
+  {
+    "id": "recital-3-10",
+    "section": "Act 3",
+    "number": "3.10",
+    "title": "Moonlight Mermaids",
+    "teacher": "Leah Burley",
+    "sort": 310
+  },
+  {
+    "id": "recital-3-11",
+    "section": "Act 3",
+    "number": "3.11",
+    "title": "Shadow of Mine",
+    "teacher": "Isadora Digiovanni",
+    "sort": 311
+  },
+  {
+    "id": "recital-3-12",
+    "section": "Act 3",
+    "number": "3.12",
+    "title": "La Corrida",
+    "teacher": "Adriana Digiovanni",
+    "sort": 312
+  },
+  {
+    "id": "recital-3-13",
+    "section": "Act 3",
+    "number": "3.13",
+    "title": "Human",
+    "teacher": "Adriana Digiovanni",
+    "sort": 313
+  },
+  {
+    "id": "recital-3-14",
+    "section": "Act 3",
+    "number": "3.14",
+    "title": "Revolt",
+    "teacher": "Anna Dickey",
+    "sort": 314
+  },
+  {
+    "id": "recital-3-15",
+    "section": "Act 3",
+    "number": "3.15",
+    "title": "Rockin Robin",
+    "teacher": "Adriana Digiovanni",
+    "sort": 315
+  },
+  {
+    "id": "recital-3-16",
+    "section": "Act 3",
+    "number": "3.16",
+    "title": "Off the Radar",
+    "teacher": "Leah Burley",
+    "sort": 316
+  },
+  {
+    "id": "recital-3-17",
+    "section": "Act 3",
+    "number": "3.17",
+    "title": "Think Later",
+    "teacher": "Anna Dickey",
+    "sort": 317
+  },
+  {
+    "id": "recital-3-18",
+    "section": "Act 3",
+    "number": "3.18",
+    "title": "Finale",
+    "teacher": "Warmland Dance",
+    "sort": 318
+  },
+  {
+    "id": "recital-awards",
+    "section": "Awards",
+    "number": "",
+    "title": "Awards",
+    "teacher": "",
+    "sort": 400
+  }
+]
