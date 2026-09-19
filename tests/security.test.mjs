@@ -1,0 +1,7 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {hashPassword,verifyPassword,signSession,verifySession,galleryUrl} from '../lib/security.mjs';
+process.env.SESSION_SECRET='test-only-secret-that-is-long-and-never-for-production';
+test('password hashes are salted and verify only the right password',async()=>{const a=await hashPassword('A long test password'),b=await hashPassword('A long test password');assert.notEqual(a,b);assert.equal(await verifyPassword('A long test password',a),true);assert.equal(await verifyPassword('incorrect',a),false);assert.equal(await verifyPassword('x',null),false);await assert.rejects(hashPassword('short'));});
+test('review sessions cannot be forged, reused for another project, or survive password rotation',()=>{const t=signSession('project-a','version-a',1000000);assert.ok(verifySession(t,'project-a','version-a',1000001));assert.equal(verifySession(t,'project-b','version-a',1000001),false);assert.equal(verifySession(t,'project-a','version-b',1000001),false);assert.equal(verifySession(t+'corrupt','project-a','version-a',1000001),false);assert.equal(verifySession(t,'project-a','version-a',1000000+8*86400000),false);});
+test('gallery links reject active content and embedded credentials',()=>{assert.equal(galleryUrl(''),'');assert.equal(galleryUrl('https://lightroom.adobe.com/shares/example'),'https://lightroom.adobe.com/shares/example');for(const url of ['javascript:alert(1)','http://example.com','https://user:secret@example.com','bad'])assert.throws(()=>galleryUrl(url));});
